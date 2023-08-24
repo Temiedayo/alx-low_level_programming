@@ -2,10 +2,10 @@
 #include <stdio.h>
 #include "lists.h"
 /**
- * list_len - show the number of element of a list
- * @h: A linked list
+ * list_len - shows the num of element of a list
+ * @h: linked list
  *
- * Return: The number of element of a list
+ * Return: Number of element of a list
  */
 size_t list_len(const list_t *h)
 {
