@@ -38,7 +38,7 @@ printf("-----------------\n");
 delete_nodeint_at_index(&head, 0);
 print_listint(head);
 printf("-----------------\n");
-elete_nodeint_at_index(&head, 0);
+delete_nodeint_at_index(&head, 0);
 print_listint(head);
 printf("-----------------\n");
 delete_nodeint_at_index(&head, 0);
